@@ -40,7 +40,7 @@
 ## 🚀 Quick Start
 
 Clone repository
-git clone https://github.com/isushantk/mutual-fund-python.git
+git clone [https://github.com/isushantk/Creating-a-Mutual-Fund-Plan-with-Python]
 cd mutual-fund-python
 
 Install dependencies
@@ -102,7 +102,7 @@ numpy==1.24.3
 
 **Nifty 50 Closing Prices** (Aug 2024 - present)
 - 51 stocks × daily data
-- Download: [nifty50_closing_prices.csv]((https://drive.google.com/file/d/1AQui5tPCNinqRBkHErIFzPauqf_hAP-h/view?usp=sharing))
+- Download: [nifty50_closing_prices.csv](https://drive.google.com/file/d/1AQui5tPCNinqRBkHErIFzPauqf_hAP-h/view?usp=sharing)
 
 ## 🔬 Complete Code Preview
 Core Analysis
